@@ -1,2 +1,1 @@
-dify-api:0.15.3
-postgres:15-alpine
+portainer/portainer-ce:latest
